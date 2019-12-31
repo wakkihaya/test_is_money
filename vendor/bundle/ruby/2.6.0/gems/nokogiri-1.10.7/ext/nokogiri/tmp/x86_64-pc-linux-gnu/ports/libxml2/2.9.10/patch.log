@@ -1,0 +1,7 @@
+warning: HTMLtree.c has type 100755, expected 100644
+warning: entities.c has type 100755, expected 100644
+warning: entities.c has type 100755, expected 100644
+/mnt/c/Users/Hayato Waki/RubymineProjects/test_is_money/testIsMoney/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.7/patches/libxml2/0004-libxml2.la-is-in-top_builddir.patch:19: trailing whitespace.
+$(top_builddir)/libxml2.la: $(libxml2_la_OBJECTS) $(libxml2_la_DEPENDENCIES) $(EXTRA_libxml2_la_DEPENDENCIES) 
+warning: Makefile.in has type 100755, expected 100644
+warning: 1 line adds whitespace errors.
