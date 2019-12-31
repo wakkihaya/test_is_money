@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 gem 'bundler', '2.1.2'
-gem 'nokogiri', '1.10.7'
+# gem 'nokogiri', '1.10.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '6.0.2.1'
 # Use mysql as the database for Active Record
